@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Book1",
+      "price": 13.99,
+      "imgUrl": "/imgs/img1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Book2",
+      "price": 11.99,
+      "imgUrl": "/imgs/img2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Book3",
+      "price": 10.5,
+      "imgUrl": "/imgs/img3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Book4",
+      "price": 14.00,
+      "imgUrl": "/imgs/img4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Book5",
+      "price": 18.00,
+      "imgUrl": "/imgs/img5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Book6",
+      "price": 24.00,
+      "imgUrl": "/imgs/img6.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Book7",
+      "price": 4.00,
+      "imgUrl": "/imgs/img7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Book8",
+      "price": 20.00,
+      "imgUrl": "/imgs/img8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Book9",
+      "price": 44.00,
+      "imgUrl": "/imgs/img6.jpeg"
+    }
+  ]
